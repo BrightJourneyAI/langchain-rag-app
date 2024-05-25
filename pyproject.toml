@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "langchain-rag-bot"
+version = "0.1.0"
+description = ""
+authors = ["Bright Journey AI"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.1.20"
+chromadb = "^0.5.0"
+streamlit = "^1.34.0"
+watchdog = "^4.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+launch = "langchain-rag-bot.app:main"
