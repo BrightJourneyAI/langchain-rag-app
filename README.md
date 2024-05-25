@@ -1,5 +1,5 @@
 # Langchain Ollama RAG App
-The following code was developed for this article on [Mastering RAG](http://test.com). 
+The following code was developed for this article on [Mastering RAG]([http://test.com](https://brightjourneyai.com/mastering-rag-local-intelligent-apps-with-langchain-ollama/)). 
 
 In the article I've walked through the nitty-gritty of leveraging Large Language Models (LLMs) for practical, business use cases. We started with understanding the limitations of LLMs and how fine-tuning and Retrieval Augmented Generation (RAG) can address these issues. Then, we dived into the nitty-gritty of building a RAG application using open-source tools.
 
